@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+
+
+*{
+    margin:0;
+    background-color: #FEC7D7;
+    font-family: 'Nunito', sans-serif;
+} 
+
+.ocultar {
+    display: none;
+}
+
+.centrar{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    place-items: center;
+}
+
+.logo{
+    transition: 2s;
+}
+
+#informacion{
+    color: var(--Grey, #535353);
+    margin-top: 2%;
+    margin: 0 auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.08px;
+}
+
+#titulo{
+    color: var(--Black, #0E172C);
+    text-align: center;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+#boton{
+    color: var(--White, #FFFFFE);
+    border-radius: 98px;
+    background-color: var(--Black, #0E172C);
+    display: flex;
+    width: 327px;
+    padding: 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0.175px;
+    margin: 0 auto;
+    margin-top: 5%;
+}
+.boton1{
+    margin: 0 auto;
+    border: transparent;
+}
+
+.logo {
+    margin: 0 auto;
+    border: transparent;
+}
+
+.img-fluid {
+    max-width: 327px;
+    height: auto;
+    display: flex;
+    margin: 0 auto;
+
+}
+
+.perros{
+    display: flex;
+    width: 156px;
+    padding: 8px;
+    align-items: center;
+    gap: 16px;
+    border-radius: 8px;
+    background: var(--Black, #0E172C);
+    color: var(--White, #FFFFFE);
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.08px;
+    margin-left: 0 auto;
+}
+
+.gatos{
+    display: flex;
+    width: 156px;
+    padding: 8px;
+    align-items: center;
+    gap: 16px;
+    border-radius: 8px;
+    background: var(--Black, #0E172C);
+    color: var(--White, #FFFFFE);
+    font-family: Nunito;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0.08px;
+}
+
+.perrito{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: var(--Green, #85D1CE);
+    border-radius: 100%;
+}
+
+.gatito{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    background-color: var(--Green, #85D1CE);
+    border-radius: 100%;
+}
+
+.titulomasc{
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 327px;
+    color: var(--Black, #0E172C);
+    font-family: Nunito;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.cat{
+    color: var(--Black, #0E172C);
+    margin-left: 1%;
+    font-family: Nunito;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: 0.027px;
+}
+
+.categorias{
+    display: flex;
+    flex-direction: space-between;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    
+}
+
+.homeb{
+    border-radius: 80px;
+    background: var(--Black, #0E172C);
+    display: flex;
+    padding: 8px 16px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    color: var(--Green, #85D1CE);
+    font-family: Nunito;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.07px;
+    color: #85D1CE;
+}
+
+.home, .like, .chat, .contact{
+    background-color: transparent;
+    border: transparent;
+}
+
+.chatb , .likeb, .contactb{
+    background-color: transparent;
+    border: transparent;
+}
+
+.nav{
+    margin-top: 67.5vh;
+    padding: 16px 24px;    
+    background-color: rgb(44, 32, 32);
+}
+
+
+
+
+

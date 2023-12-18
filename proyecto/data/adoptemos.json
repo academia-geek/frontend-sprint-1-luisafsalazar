@@ -1,0 +1,96 @@
+{
+"img-perritos": [
+{
+    "id": "1",
+    "Title": "Chester",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "1 año",
+    "Raza": "Golden retriever",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Chester es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "2",
+    "Title": "Papi",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650572/Adopci%C3%B3n/Card_1_mow04l.jpg",
+    "Year": "1 año",
+    "Raza": "Chihuahua",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "3",
+    "Title": "Rocky",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "3 meses",
+    "Raza": "Rottweiler",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "4",
+    "Title": "Pelusa",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650574/Adopci%C3%B3n/Card_3_uci87n.jpg",
+    "Year": "1 año",
+    "Raza": "Bichón frisé",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "5",
+    "Title": "Charlie",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650575/Adopci%C3%B3n/Card_4_rqyyay.jpg",
+    "Year": "1 año",
+    "Raza": "Chihuahua",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "6",
+    "Title": "Chester",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "1 año",
+    "Raza": "Golden retriever",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+}
+],
+"img-gaticos": [
+{
+    "id": "1",
+    "Title": "Matilde",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "1 año",
+    "Raza": "Golden retriever",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "2",
+    "Title": "Pelusa",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "1 año",
+    "Raza": "Golden retriever",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+},
+{
+    "id": "3",
+    "Title": "Kity",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "1 año",
+    "Raza": "Golden retriever",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+    },
+    {
+    "id": "4",
+    "Title": "Bombón",
+    "Image": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650577/Adopci%C3%B3n/Card_euo9vf.jpg",
+    "Year": "1 año",
+    "Raza": "Golden retriever",
+    "Sexo": "https://res.cloudinary.com/dfl99nrne/image/upload/v1702650586/Adopci%C3%B3n/macho_icon_osfwhx.png",
+    "Description": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+    }
+]
+}
